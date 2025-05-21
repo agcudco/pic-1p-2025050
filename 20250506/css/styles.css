@@ -1,0 +1,36 @@
+mi-botoncito button {
+    background-color: aqua;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: aliceblue;
+    border: none;
+}
+
+mi-botoncito button:hover {
+    background-color: black;
+
+}
+
+main-menu{
+    display: block;
+    width: 100%;
+    background-color: #035d13;
+}
+
+.class-container{
+    display: flex;
+    justify-content: center;
+}
+
+.class-container li{
+    padding: 1rem 1.5rem;
+    color: aliceblue;
+    cursor: pointer;
+    font-size: 15px;
+    list-style-type: none;
+    text-transform: uppercase;
+}
+
+.class-container li:hover{
+    background-color: #0ab1eb;
+}

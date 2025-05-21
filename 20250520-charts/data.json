@@ -1,0 +1,102 @@
+[
+    {
+        "anio": "1990",
+        "hombres": 50,
+        "mujeres": 40
+    },
+    {
+        "anio": "1991",
+        "hombres": 60,
+        "mujeres": 60
+    },
+    {
+        "anio": "1992",
+        "hombres": 70,
+        "mujeres": 65
+    },
+    {
+        "anio": "1993",
+        "hombres": 65,
+        "mujeres": 70
+    },
+    {
+        "anio": "1994",
+        "hombres": 60,
+        "mujeres": 60
+    },
+    {
+        "anio": "1995",
+        "hombres": 55,
+        "mujeres": 65
+    },
+    {
+        "anio": "1996",
+        "hombres": 70,
+        "mujeres": 70
+    },
+    {
+        "anio": "1997",
+        "hombres": 80,
+        "mujeres": 75
+    },
+    {
+        "anio": "1998",
+        "hombres": 75,
+        "mujeres": 80
+    },
+    {
+        "anio": "1999",
+        "hombres": 70,
+        "mujeres": 70
+    },
+    {
+        "anio": "2000",
+        "hombres": 65,
+        "mujeres": 70
+    },
+    {
+        "anio": "2001",
+        "hombres": 80,
+        "mujeres": 80
+    },
+    {
+        "anio": "2002",
+        "hombres": 90,
+        "mujeres": 85
+    },
+    {
+        "anio": "2003",
+        "hombres": 85,
+        "mujeres": 90
+    },
+    {
+        "anio": "2004",
+        "hombres": 80,
+        "mujeres": 80
+    },
+    {
+        "anio": "2005",
+        "hombres": 75,
+        "mujeres": 85
+    },
+    {
+        "anio": "2006",
+        "hombres": 90,
+        "mujeres": 90
+    },
+    {
+        "anio": "2007",
+        "hombres": 100,
+        "mujeres": 95
+    },
+    {
+        "anio": "2008",
+        "hombres": 95,
+        "mujeres": 100
+    },
+    {
+        "anio": "2009",
+        "hombres": 90,
+        "mujeres": 90
+    }
+]

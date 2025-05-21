@@ -1,0 +1,46 @@
+[
+  {
+    "empresa": "CNT EP",
+    "producto": "Internet Fibra Optica",
+    "ventas": {
+      "enero": 125.85,
+      "febrero": 85.85,
+      "marzo": 666.66,
+      "abril": 845,
+      "mayo": 1000
+    }
+  },
+  {
+    "empresa": "CNT EP",
+    "producto": "Paquetes prepago",
+    "ventas": {
+      "enero": 1025.85,
+      "febrero": 185.85,
+      "marzo": 6660.66,
+      "abril": 8450,
+      "mayo": 10000
+    }
+  },
+  {
+    "empresa": "Telconet",
+    "producto": "Internet Satelital",
+    "ventas": {
+      "enero": 525.85,
+      "febrero": 835.85,
+      "marzo": 45.66,
+      "abril": 85,
+      "mayo": 956
+    }
+  },
+  {
+    "empresa": "Claro",
+    "producto": "Internet Movil",
+    "ventas": {
+      "enero": 325.85,
+      "febrero": 335.85,
+      "marzo": 405.66,
+      "abril": 385,
+      "mayo": 656
+    }
+  }
+]
